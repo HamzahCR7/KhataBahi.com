@@ -49,7 +49,7 @@ input[type=number] {
 }
 
 .budget-container .app-title{
-    position: relative;
+    /* position: relative; */
     margin-top: 45px;
     margin-left: 20px;
 }
