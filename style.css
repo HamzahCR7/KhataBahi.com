@@ -45,7 +45,7 @@ input[type=number] {
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-    background-color: #34006a;
+    background-color: hotpink;
 }
 
 .budget-container .app-title{
@@ -54,7 +54,7 @@ input[type=number] {
 }
 
 .budget-container .app-title a{
-    color: #FFF;
+    color: rgb(87, 28, 10);
 }
 .budget-container .app-title a b{
     font-family: 'Gilroy Bold';
@@ -70,7 +70,7 @@ input[type=number] {
 }
 
 .budget-header .balance .title{
-    color: #FFF;
+    color: rgb(255, 255, 255);
     font-size: 1em;
     font-family: 'Gilroy Bold';
 }
@@ -103,7 +103,7 @@ input[type=number] {
     opacity: 0.5;
 }
 .budget-header .account .income .income-total{
-    color: #FFF;
+    color: rgb(11, 135, 192);
     font-family: 'Gilroy Bold';
 }
 
@@ -128,7 +128,7 @@ input[type=number] {
 
 .budget-dashboard .dash-title{
     display: inline-block;
-    color: #1a0034;
+    color: #320034;
     font-size: 1.7em;
     margin-left: 20px;
     margin-top: 30px;
@@ -145,7 +145,7 @@ input[type=number] {
     display: inline-block;
     cursor: pointer;
     font-size: 1.1em;
-    color: #1a0034;
+    color: #340020;
     font-family: 'Gilroy Bold';
     opacity: 0.4;
 }
@@ -189,6 +189,7 @@ input[type=number] {
 .budget-dashboard #all ul.list li{
     position: relative;
     font-size: 1em;
+    color: green;
 }
 
 .budget-dashboard #all ul.list li *{
@@ -240,7 +241,7 @@ input[type=number] {
     display: block;
     width: 360px;
     bottom: 0;
-    border-top: 1px solid #ccc;
+    border-top: 1px solid rgb(105, 10, 10);
 }
 
 .budget-dashboard #expense .input *{
@@ -394,6 +395,7 @@ input[type=number] {
 .budget-dashboard #income ul.list li{
     position: relative;
     font-size: 1em;
+    color: green;
 }
 
 .budget-dashboard #income ul.list li *{
