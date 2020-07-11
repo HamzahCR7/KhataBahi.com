@@ -49,12 +49,15 @@ input[type=number] {
 }
 
 .budget-container .app-title{
-    margin-top: 100px;
+    margin-top: 45px;
     margin-left: 20px;
 }
 
 .budget-container .app-title a{
     color: rgb(87, 28, 10);
+    margin-top: 100px;
+
+
 }
 .budget-container .app-title a b{
     font-family: 'Gilroy Bold';
